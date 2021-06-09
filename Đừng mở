@@ -1,0 +1,19 @@
+const CONFIG = {
+    introTitle: 'Hí!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'cái ',
+    desc: 'này ',
+    btnYes: 'chỉ',
+    btnNo: 'để',
+    question:'for',
+    btnReply: 'fun',
+    reply: 'thít thì thít khum thít thì thít:3',
+    mess: 'hí hí',
+    messDesc: 'hãy vui lên',
+    btnAccept: 'nghỉ hè vui vẻ nghen:3',
+    messLink: 'https://www.facebook.com/messages/t/100028303906364/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
